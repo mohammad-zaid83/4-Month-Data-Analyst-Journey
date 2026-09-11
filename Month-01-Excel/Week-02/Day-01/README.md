@@ -43,7 +43,7 @@ Performed:
 - Customer information combination
 - Product classification
 
-## Key Learning
+## Key Learning jgugfdygu gt
 
 Learned that Excel functions can be combined to solve practical data-cleaning problems.
 
@@ -63,4 +63,6 @@ Data cleaning is an important part of data analysis because inconsistent text ca
 
 ## Status
 
-Week 02 — Day 01 Completed ✅
+Week 02 — Day 01 Completed ✅hf f 
+bvjhcdjo gh hg uih
+bjbvjv hjgicfdf fvjblkjfyktf7ltf8lfl
