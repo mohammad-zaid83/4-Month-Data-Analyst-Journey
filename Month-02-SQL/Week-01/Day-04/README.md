@@ -1,6 +1,7 @@
 # SQL Day 04 — IN, BETWEEN, LIKE & NULL
 
 ## Date
+
 06 October 2026
 
 ## Topics Covered
